@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
+.text:hover
+{
+    color: aqua;
+}
+.search-query {
+    background-color:grey;
+    color:black;
+}
+
+::placeholder {
+    color: black;
+    font-weight: 500;
+  }
+.incedotext
+{
+    color: crimson;
+    font-size: xx-large;
+    font-weight: 500;
+}
+.marketplacetext
+{
+    font-size: medium;
+}
